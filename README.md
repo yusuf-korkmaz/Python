@@ -1,0 +1,13 @@
+# Python
+
+Python öğrenilmesi kolay , insan diline en yakın object-oriented programlama dillerinden bir tanesidir.Python kullanarak hızlı bir şekilde uygulama çıkartabilirsiniz.
+Python yorumlayıcısı ve en yaygın kullanılan standart kütüphanesi tutorialları ile birlikte ücretsiz bir şekilde python’ın internet sitesinde bulunmakta .
+Python yorumlayıcısına kolaylıkla yeni fonksiyonlar ekleyebiliriz.Python kolaylıkla genişletilebilir bir dildir.
+
+
+Python diğer dillere nazaran çok daha kolay bir dildir. Javada örneğin kodu yaz / compile et / test et / tekrar compile et şeklinde çalışır.Python ise bu şekilde çalışmaz yorumlanan diller ailesinden olduğu için direk çalıştırılır.
+Python programınızı modullere bölmenize izin verir ve insan diline çok benzer olduğu için yüksek seviyeli dillerdendir.
+Python Çok esnek bir dildir.Liste dictionary gibi yapıları bulunmakta ve esnek bir yapıda.
+Python kullanarak IO işlemlerinide rahatlıkla yapabilirsiniz.
+C / C++ / Java da yazdığınız kodlardan daha kısa kod yazarak aynı işlemi gerçekleştirebilirsiniz pythonda bununda bir kaç sebebi mevcut.
+
